@@ -1,0 +1,426 @@
+{
+    "type": "FeatureCollection",
+    "name": "Pendidikan1",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "TK LKMD Catur Tunggal": "Balebaca Omah Ngaji",
+                "Tidak ada ulasan  Taman Kanak-kanak": " Sekolah",
+                "5C4J+666": "5C6P+QMG. Jl. Gampingan - monggang",
+                "field_4": "5",
+                "field_5": 4,
+                "Piyungan": "Piyungan",
+                "TK LKMD Catur Tunggal 5C4J+666 Piyungan": "Balebaca Omah Ngaji 5C6P+QMG. Jl. Gampingan - monggang Piyungan ",
+                "-7.844467": -7.8380745,
+                "110.4305161": 110.4367127
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4367127,
+                    -7.8380745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "TK LKMD Catur Tunggal": "Rumah Belajar Utsman Ali",
+                "Tidak ada ulasan  Taman Kanak-kanak": "Tidak ada ulasan  Kursus",
+                "5C4J+666": "5C8Q+CGH  0821-3786-0274",
+                "field_4": null,
+                "field_5": null,
+                "Piyungan": "Piyungan",
+                "TK LKMD Catur Tunggal 5C4J+666 Piyungan": "Rumah Belajar Utsman Ali 5C8Q+CGH  0821-3786-0274 Piyungan ",
+                "-7.844467": -7.8339448,
+                "110.4305161": 110.4388502
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4388502,
+                    -7.8339448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "TK LKMD Catur Tunggal": "Rumah Belajar Ummu Jasmine",
+                "Tidak ada ulasan  Taman Kanak-kanak": " Sekolah",
+                "5C4J+666": "Baitussalam. Gg Masjid Jl. Karanggayam No.RT. 01  0857-9904-3866",
+                "field_4": "5:00",
+                "field_5": 28,
+                "Piyungan": "Piyungan",
+                "TK LKMD Catur Tunggal 5C4J+666 Piyungan": "Rumah Belajar Ummu Jasmine Baitussalam. Gg Masjid Jl. Karanggayam No.RT. 01  0857-9904-3866 Piyungan ",
+                "-7.844467": -7.8428862,
+                "110.4305161": 110.4402469
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4402469,
+                    -7.8428862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "TK LKMD Catur Tunggal": "TKIT Ar-Raihan Piyungan",
+                "Tidak ada ulasan  Taman Kanak-kanak": " Sekolah",
+                "5C4J+666": "5C6P+GMV. Gampingan  0851-0161-1446",
+                "field_4": "4:07",
+                "field_5": 6,
+                "Piyungan": "Piyungan",
+                "TK LKMD Catur Tunggal 5C4J+666 Piyungan": "TKIT Ar-Raihan Piyungan 5C6P+GMV. Gampingan  0851-0161-1446 Piyungan ",
+                "-7.844467": -7.8386306,
+                "110.4305161": 110.4366762
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4366762,
+                    -7.8386306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "TK LKMD Catur Tunggal": "Satria bagus",
+                "Tidak ada ulasan  Taman Kanak-kanak": "Tidak ada ulasan  Kelompok Bermain",
+                "5C4J+666": "5C4M+35F",
+                "field_4": null,
+                "field_5": null,
+                "Piyungan": "Piyungan",
+                "TK LKMD Catur Tunggal 5C4J+666 Piyungan": "Satria bagus 5C4M+35F Piyungan ",
+                "-7.844467": -7.8448016,
+                "110.4305161": 110.4329321
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4329321,
+                    -7.8448016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "TK LKMD Catur Tunggal": "SPS Kuden Ceria",
+                "Tidak ada ulasan  Taman Kanak-kanak": "Tidak ada ulasan  Kelompok Bermain",
+                "5C4J+666": "5C3M+9R6. JL. Kuden. Sitimulyo. Piyungan  (0274) 6654524",
+                "field_4": null,
+                "field_5": null,
+                "Piyungan": "Piyungan",
+                "TK LKMD Catur Tunggal 5C4J+666 Piyungan": "SPS Kuden Ceria 5C3M+9R6. JL. Kuden. Sitimulyo. Piyungan  (0274) 6654524 Piyungan ",
+                "-7.844467": -7.8381349,
+                "110.4305161": 110.4344268
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4344268,
+                    -7.8381349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "TK LKMD Catur Tunggal": "SPS Kasih Ibu",
+                "Tidak ada ulasan  Taman Kanak-kanak": "Tidak ada ulasan  Kelompok Bermain",
+                "5C4J+666": "5C3M+9Q9. JL. Ngablak. Sitimulyo. Piyungan  0856-4308-2076",
+                "field_4": null,
+                "field_5": null,
+                "Piyungan": "Piyungan",
+                "TK LKMD Catur Tunggal 5C4J+666 Piyungan": "SPS Kasih Ibu 5C3M+9Q9. JL. Ngablak. Sitimulyo. Piyungan  0856-4308-2076 Piyungan ",
+                "-7.844467": -7.8465811,
+                "110.4305161": 110.434499
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.434499,
+                    -7.8465811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "TK LKMD Catur Tunggal": "ICBB Karantina Putra",
+                "Tidak ada ulasan  Taman Kanak-kanak": " Sekolah Agama",
+                "5C4J+666": "5C4P+VGF",
+                "field_4": "4:09",
+                "field_5": 20,
+                "Piyungan": "Piyungan",
+                "TK LKMD Catur Tunggal 5C4J+666 Piyungan": "ICBB Karantina Putra 5C4P+VGF Piyungan ",
+                "-7.844467": -7.8428202,
+                "110.4305161": 110.436311
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.436311,
+                    -7.8428202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "TK LKMD Catur Tunggal": "Taman Pendidikan Al-Quran Baitul Mubarok",
+                "Tidak ada ulasan  Taman Kanak-kanak": " Tempat Ibadah",
+                "5C4J+666": "Banyakan 1.  0838-6987-5874",
+                "field_4": "5:00",
+                "field_5": 1,
+                "Piyungan": "Piyungan",
+                "TK LKMD Catur Tunggal 5C4J+666 Piyungan": "Taman Pendidikan Al-Quran Baitul Mubarok Banyakan 1.  0838-6987-5874 Piyungan ",
+                "-7.844467": -7.8554738,
+                "110.4305161": 110.428126
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.428126,
+                    -7.8554738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "TK LKMD Catur Tunggal": "STITMA (Sekolah Tinggi Ilmu Tarbiyah Madani)",
+                "Tidak ada ulasan  Taman Kanak-kanak": " Universitas Swasta",
+                "5C4J+666": "Jl. Wonosari Jl. Karanggayam No.KM. 10",
+                "field_4": "4:07",
+                "field_5": 22,
+                "Piyungan": "Piyungan",
+                "TK LKMD Catur Tunggal 5C4J+666 Piyungan": "STITMA (Sekolah Tinggi Ilmu Tarbiyah Madani) Jl. Wonosari Jl. Karanggayam No.KM. 10 Piyungan ",
+                "-7.844467": -7.8436407,
+                "110.4305161": 110.4429581
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4429581,
+                    -7.8436407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "TK LKMD Catur Tunggal": "STIKes Madani Komplek Khadijah",
+                "Tidak ada ulasan  Taman Kanak-kanak": " Universitas",
+                "5C4J+666": "5C6V+2RF  0856-4760-2202",
+                "field_4": "4:06",
+                "field_5": 11,
+                "Piyungan": "Piyungan",
+                "TK LKMD Catur Tunggal 5C4J+666 Piyungan": "STIKes Madani Komplek Khadijah 5C6V+2RF  0856-4760-2202 Piyungan ",
+                "-7.844467": -7.8399299,
+                "110.4305161": 110.4445491
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4445491,
+                    -7.8399299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "TK LKMD Catur Tunggal": "PAUD Bunayya & SU Putri. ICBB 3",
+                "Tidak ada ulasan  Taman Kanak-kanak": " Sekolah",
+                "5C4J+666": "5C5V+XJ8",
+                "field_4": "5:00",
+                "field_5": 2,
+                "Piyungan": "Piyungan",
+                "TK LKMD Catur Tunggal 5C4J+666 Piyungan": "PAUD Bunayya & SU Putri. ICBB 3 5C5V+XJ8 Piyungan ",
+                "-7.844467": -7.840088,
+                "110.4305161": 110.444065
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.444065,
+                    -7.840088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "TK LKMD Catur Tunggal": "SD Islam Terpadu Kholid Bin Walid Piyungan",
+                "Tidak ada ulasan  Taman Kanak-kanak": " Sekolah Dasar",
+                "5C4J+666": "5C6P+9JP  0817-4100-161",
+                "field_4": "4:05",
+                "field_5": 10,
+                "Piyungan": "Piyungan",
+                "TK LKMD Catur Tunggal 5C4J+666 Piyungan": "SD Islam Terpadu Kholid Bin Walid Piyungan 5C6P+9JP  0817-4100-161 Piyungan ",
+                "-7.844467": -7.8390251,
+                "110.4305161": 110.4365884
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4365884,
+                    -7.8390251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "TK LKMD Catur Tunggal": "PKBM TA'DIB",
+                "Tidak ada ulasan  Taman Kanak-kanak": " Sekolah Menengah Umum",
+                "5C4J+666": "5C4J+8H5",
+                "field_4": "4:09",
+                "field_5": 10,
+                "Piyungan": "Piyungan",
+                "TK LKMD Catur Tunggal 5C4J+666 Piyungan": "PKBM TA'DIB 5C4J+8H5 Piyungan ",
+                "-7.844467": -7.8442348,
+                "110.4305161": 110.4314808
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4314808,
+                    -7.8442348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "TK LKMD Catur Tunggal": "Islamic Centre Bin Baz (ICBB) Putri",
+                "Tidak ada ulasan  Taman Kanak-kanak": " Sekolah",
+                "5C4J+666": "5C6X+358  (0274) 4353272",
+                "field_4": "4:04",
+                "field_5": 79,
+                "Piyungan": "Piyungan",
+                "TK LKMD Catur Tunggal 5C4J+666 Piyungan": "Islamic Centre Bin Baz (ICBB) Putri 5C6X+358  (0274) 4353272 Piyungan ",
+                "-7.844467": -7.8398336,
+                "110.4305161": 110.4479545
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4479545,
+                    -7.8398336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "TK LKMD Catur Tunggal": "SPS Mentari",
+                "Tidak ada ulasan  Taman Kanak-kanak": " Kelompok Bermain",
+                "5C4J+666": "5C4M+84V. JL. Padangan. Sitimulyo. Piyungan  0818-0416-1388",
+                "field_4": "5:00",
+                "field_5": 2,
+                "Piyungan": "Piyungan",
+                "TK LKMD Catur Tunggal 5C4J+666 Piyungan": "SPS Mentari 5C4M+84V. JL. Padangan. Sitimulyo. Piyungan  0818-0416-1388 Piyungan ",
+                "-7.844467": -7.8441315,
+                "110.4305161": 110.4328078
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4328078,
+                    -7.8441315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "TK LKMD Catur Tunggal": "SPS Kuden Ceria",
+                "Tidak ada ulasan  Taman Kanak-kanak": "Tidak ada ulasan  Taman Kanak-kanak",
+                "5C4J+666": "5C6M+RPG. Gg. Perum Cepoko Griya Indah Jl. Potorono",
+                "field_4": null,
+                "field_5": null,
+                "Piyungan": "Piyungan",
+                "TK LKMD Catur Tunggal 5C4J+666 Piyungan": "SPS Kuden Ceria 5C6M+RPG. Gg. Perum Cepoko Griya Indah Jl. Potorono Piyungan ",
+                "-7.844467": -7.8381349,
+                "110.4305161": 110.4344268
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4344268,
+                    -7.8381349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "TK LKMD Catur Tunggal": "SMP Negeri 2 Piyungan",
+                "Tidak ada ulasan  Taman Kanak-kanak": " Sekolah Menengah Pertama",
+                "5C4J+666": "Jl. Wonosari KM.10. Sitimulyo Piyungan  (0274) 4353350",
+                "field_4": "4:05",
+                "field_5": 50,
+                "Piyungan": "Piyungan",
+                "TK LKMD Catur Tunggal 5C4J+666 Piyungan": "SMP Negeri 2 Piyungan Jl. Wonosari KM.10. Sitimulyo Piyungan  (0274) 4353350 Piyungan ",
+                "-7.844467": -7.828085,
+                "110.4305161": 110.4430131
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4430131,
+                    -7.828085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "TK LKMD Catur Tunggal": "PAUD Buah Hati bunda",
+                "Tidak ada ulasan  Taman Kanak-kanak": " Sekolah",
+                "5C4J+666": "5C6W+68V. Karangploso  0812-2775-7410",
+                "field_4": "5:00",
+                "field_5": 1,
+                "Piyungan": "Piyungan",
+                "TK LKMD Catur Tunggal 5C4J+666 Piyungan": "PAUD Buah Hati bunda 5C6W+68V. Karangploso  0812-2775-7410 Piyungan ",
+                "-7.844467": -7.8393775,
+                "110.4305161": 110.4458104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4458104,
+                    -7.8393775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "TK LKMD Catur Tunggal": null,
+                "Tidak ada ulasan  Taman Kanak-kanak": null,
+                "5C4J+666": null,
+                "field_4": null,
+                "field_5": null,
+                "Piyungan": null,
+                "TK LKMD Catur Tunggal 5C4J+666 Piyungan": "   ",
+                "-7.844467": null,
+                "110.4305161": null
+            },
+            "geometry": null
+        }
+    ]
+}
