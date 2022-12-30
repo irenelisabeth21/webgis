@@ -235,6 +235,41 @@
             sungai.addData(data);
             map.addLayer(sungai); //sungai ditampilkan ketika halaman dipanggil
         });
+
+        /* GeoJSON Point */
+        var wisata = L.geoJson(null, {
+            pointToLayer: function (feature, latlng) {
+                return L.marker(latlng, {
+                    icon: L.icon({
+                        iconUrl: "https://image.winudf.com/v2/image1/Y29tLmFuZHpkZXYud2lzYXRhaW5kb25lc2lhX2ljb25fMTU0MjY2OTgwMF8wMzA/icon.png?w=170&fakeurl=1", //icon simbol
+                        iconSize: [28, 28], //ukuran icon simbol
+                        iconAnchor: [14, 28], //penempatan icon simbol
+                        popupAnchor: [0, -28], //penempatan popup terhadap icon simbol
+                    })
+                });
+            },
+            /* Popup */
+            onEachFeature: function (feature, layer) {
+                if (feature.properties) {
+                    /* Variabel untuk memanggil atribut dari data geojson */
+                    var content =
+                        "Nama: <b>" + feature.properties.Nama + "</b><br>" +
+                        "Alamat: " + feature.properties.Alamat + "<br>" +
+                        "Reting:" + feature.properties.Reting
+                    layer.on({
+                        click: function (e) { //Fungsi ketika icon simbol di-klik
+                            wisata.bindPopup(content);
+                        }
+                    });
+                }
+            }
+        });
+        /* memanggil data geojson point */
+        $.getJSON("TempatWisata.geojson", function (data) {
+            wisata.addData(data);
+            map.addLayer(wisata); //wisata ditampilkan ketika halaman dipanggil
+        });
+
         // akhir layar peta
 
 
@@ -249,7 +284,7 @@
             'Jalan Utama': jalanutama,
             'Sungai': sungai,
             'Admin Desa': admindesa,
-
+            "Tempat Wisata": wisata,
         };
         var layerControl = L.control.layers(baseMaps, Layers, { collapsed: false });
 

@@ -1,0 +1,166 @@
+{
+    "type": "FeatureCollection",
+    "name": "TempatWisata",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Nama": "Grojogan Tuwondo",
+                "Reting": "3:09",
+                "3637": 151,
+                "Tujuan Wisata": "Tujuan Wisata",
+                "Jl. Wonosari No.KM 10": "4CMJ+QVM. Lemah Abang",
+                "field_6": null,
+                "Piyungan": "Piyungan",
+                "Nama Jl. Wonosari No.KM 10 Piyungan": "Grojogan Tuwondo 4CMJ+QVM. Lemah Abang Piyungan ",
+                "-7.8278773": -7.8655379,
+                "110.4413062": 110.4321692
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4321692,
+                    -7.8655379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nama": "Puncak Bucu",
+                "Reting": "4:01",
+                "3637": 321,
+                "Tujuan Wisata": "Tujuan Wisata",
+                "Jl. Wonosari No.KM 10": "Ngelosari. Srimulyo. Piyungan",
+                "field_6": null,
+                "Piyungan": "Piyungan",
+                "Nama Jl. Wonosari No.KM 10 Piyungan": "Puncak Bucu Ngelosari. Srimulyo. Piyungan Piyungan ",
+                "-7.8278773": -7.8618548,
+                "110.4413062": 110.4430834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4430834,
+                    -7.8618548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nama": "Taman Wisata Keluarga - Gerbang Banyu Langit",
+                "Reting": "4:04",
+                "3637": 1029,
+                "Tujuan Wisata": "Tujuan Wisata",
+                "Jl. Wonosari No.KM 10": "Jl. Bintaran Kulon. Jl. Bintaran Kulon",
+                "field_6": null,
+                "Piyungan": "Piyungan",
+                "Nama Jl. Wonosari No.KM 10 Piyungan": "Taman Wisata Keluarga - Gerbang Banyu Langit Jl. Bintaran Kulon. Jl. Bintaran Kulon Piyungan ",
+                "-7.8278773": -7.8327028,
+                "110.4413062": 110.4519669
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4519669,
+                    -7.8327028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nama": "Setren Opak",
+                "Reting": "4:03",
+                "Review": 767,
+                "Tujuan Wisata": "Tujuan Wisata",
+                "Alamat": "Kabupaten Bantul. Daerah Istimewa Yogyakarta",
+                "field_6": null,
+                "Piyungan": "Piyungan",
+                "Nama Alamat Piyungan": "Setren Opak Kabupaten Bantul. Daerah Istimewa Yogyakarta Piyungan ",
+                "-7.8278773": -7.8411009,
+                "110.4413062": 110.4468827
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4468827,
+                    -7.8411009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nama": "INDROKILO HILLS",
+                "Reting": "4:06",
+                "Review": 75,
+                "Tujuan Wisata": "Tujuan Wisata",
+                "Alamat": "Kabupaten Bantul. Daerah Istimewa Yogyakarta",
+                "field_6": null,
+                "Piyungan": "Piyungan",
+                "Nama Alamat Piyungan": "INDROKILO HILLS Kabupaten Bantul. Daerah Istimewa Yogyakarta Piyungan ",
+                "-7.8278773": -7.8617029,
+                "110.4413062": 110.4274832
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4274832,
+                    -7.8617029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nama": "Taman Tempuran Cikal",
+                "Reting": "4:04",
+                "Review": 332,
+                "Tujuan Wisata": "Taman Rekreasi Air",
+                "Alamat": "Kabupaten Bantul. Daerah Istimewa Yogyakarta",
+                "field_6": null,
+                "Piyungan": "Piyungan",
+                "Nama Jl. Wonosari No.KM 10 Piyungan": "Taman Tempuran Cikal Kabupaten Bantul. Daerah Istimewa Yogyakarta Piyungan ",
+                "-7.8278773": -7.8412213,
+                "110.4413062": 110.4495836
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4495836,
+                    -7.8412213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nama": "Taman Dinosaurus Potorono - Potorono Edu Park",
+                "Reting": "4:06",
+                "Review": 272,
+                "Tujuan Wisata": "Tujuan Wisata",
+                "Alamat": "Kabupaten Bantul. Daerah Istimewa Yogyakarta",
+                "field_6": null,
+                "Piyungan": "Piyungan",
+                "Nama Alamat Piyungan": "Taman Dinosaurus Potorono - Potorono Edu Park Kabupaten Bantul. Daerah Istimewa Yogyakarta Piyungan ",
+                "-7.8278773": -7.8326446,
+                "110.4413062": 110.4206426
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4206426,
+                    -7.8326446
+                ]
+            }
+        }
+    ]
+}
